@@ -1,13 +1,15 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-should/issues"
+    "url": "https://github.com/e2e-boilerplate/cypress-es-modules-jest-expect/issues"
   },
   "dependencies": {
     "cypress": "4.3.0",
+    "cypress-jest-adapter": "0.1.1",
+    "jest": "25.2.6",
     "rimraf": "3.0.2"
   },
-  "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Should.",
+  "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Jest and Expect.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
@@ -19,7 +21,7 @@
     "prettier": "2.0.2",
     "pretty-quick": "2.0.1"
   },
-  "homepage": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-should#readme",
+  "homepage": "https://github.com/e2e-boilerplate/cypress-es-modules-jest-expect#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -27,13 +29,13 @@
   },
   "keywords": [
     "boilerplate",
-    "chai",
     "cypress",
     "e2e",
     "e2e tests",
     "example",
+    "expect",
     "integration test",
-    "should"
+    "jest"
   ],
   "license": "MIT",
   "lint-staged": {
@@ -41,10 +43,10 @@
       "prettier --write"
     ]
   },
-  "name": "cypress-es-modules-chai-should",
+  "name": "cypress-es-modules-jest-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/cypress-es-modules-chai-should.git"
+    "url": "git+https://github.com/e2e-boilerplate/cypress-es-modules-jest-expect.git"
   },
   "scripts": {
     "clean:screenshots": "npx cypress/screenshots/*",
