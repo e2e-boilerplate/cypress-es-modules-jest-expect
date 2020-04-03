@@ -6,7 +6,6 @@
   "dependencies": {
     "cypress": "4.3.0",
     "cypress-jest-adapter": "0.1.1",
-    "jest": "25.2.6",
     "rimraf": "3.0.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Jest and Expect.",
