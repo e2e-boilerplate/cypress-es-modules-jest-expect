@@ -6,6 +6,11 @@
     "cypress/globals": true,
     "browser": true
   },
-  "extends": ["airbnb-base", "plugin:prettier/recommended"],
-  "plugins": ["cypress"]
+  "extends": [
+    "airbnb-base",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": [
+    "cypress"
+  ]
 }
