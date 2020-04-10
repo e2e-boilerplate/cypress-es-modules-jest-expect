@@ -1,6 +1,6 @@
 | referrer                                                                 | count | uniques |
 | :----------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/cypress-es-modules-jest-expect                          | 9     | 1       |
+| /e2e-boilerplate/cypress-es-modules-jest-expect                          | 10    | 2       |
 | /e2e-boilerplate/cypress-es-modules-jest-expect/runs/556535270           | 4     | 1       |
 | /e2e-boilerplate/cypress-es-modules-jest-expect/actions                  | 3     | 1       |
 | /e2e-boilerplate/cypress-es-modules-jest-expect/actions/runs/69444159    | 3     | 1       |
