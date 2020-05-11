@@ -2,7 +2,7 @@
     
 # Cypress Boilerplate
     
-Cypress end-to-end test automation boilerplate, Using ES Modules, Jest and Expect.
+Cypress end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Jest](https://jestjs.io) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/cypress-es-modules-jest-expect.git
